@@ -1,0 +1,20 @@
+{
+  "name": "wuhan2020-website",
+  "version": "1.0.0",
+  "description": "This repository contains the code used in the development of English version of Wuhan2020 website",
+  "main": "README.md",
+  "repository": "https://github.com/cissa-opensource/wuhan2020-website",
+  "author": "Dennis Wirya <dwirya@outlook.com>, Saint Tan <tanhwaisaint@hotmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.2.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
