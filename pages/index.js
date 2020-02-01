@@ -1,9 +1,11 @@
 import React from "react";
+import Header from "../components/Header";
 
 export default function Index() {
   return(
     <div>
-      <a> Hello World! </a>
+      <Header/>
+      <p> Hello World! </p>
     </div>
   )
 }
