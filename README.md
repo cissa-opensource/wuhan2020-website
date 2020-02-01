@@ -13,10 +13,14 @@ not <span style="text-decoration: underline">money</span>.
 
 To run: 
 
-`git clone wuhan2020-website https://github.com/cissa-opensource/wuhan2020-website.git`
+`git clone https://github.com/cissa-opensource/wuhan2020-website.git wuhan2020-website`
 
 Then: 
 
-`yarn install && yarn run dev`
+`cd wuhan2020-website && yarn install`
+
+Once installation is done:
+
+`yarn run dev`
 
 Navigate to `localhost:3000` in your browser.
